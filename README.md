@@ -1,4 +1,4 @@
-# CURRICULUM VITAE
+# ⚠️ ERREUR 404
 
 ## 🎯 OBJECTIFS
 
@@ -26,8 +26,3 @@ HTML & CSS Grid
 ## ⏰ ÉTAT D'AVANCEMENT
 
 - Quelqueq modifs à faire 🙃
-
-## 👀 APERÇU DU PROJET
-
-![Screen shot version Desktop](img/screen-1.jpg)
-![Screen shot version Desktop](img/screen-2.jpg)
