@@ -7,7 +7,7 @@
 
 ## 🔗 LIEN VERS LE PROJET
 
-![https://evalambert.github.io/404/](https://evalambert.github.io/404/)
+[https://evalambert.github.io/404/](https://evalambert.github.io/404/)
 
 ## 👉 CONSIGNES
 
