@@ -1,13 +1,13 @@
 # ⚠️ ERREUR 404
 
+## 🔗 LIEN VERS LE PROJET
+
+[https://evalambert.github.io/404/](https://evalambert.github.io/404/)
+
 ## 🎯 OBJECTIFS
 
 - Savoir écrire du HTML sémantique
 - Comprendre le positionnement CSS
-
-## 🔗 LIEN VERS LE PROJET
-
-[https://evalambert.github.io/404/](https://evalambert.github.io/404/)
 
 ## 👉 CONSIGNES
 
