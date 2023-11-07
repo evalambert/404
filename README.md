@@ -2,7 +2,7 @@
 
 ## 🔗 LIEN VERS LE PROJET
 
-[https://evalambert.github.io/404/](https://evalambert.github.io/404/)
+https://evalambert.github.io/404/
 
 ## 🎯 OBJECTIFS
 
@@ -21,8 +21,12 @@
 
 ## 🌐 LANGUAGE UTILISÉ
 
-HTML & CSS Grid
+- HTML & CSS Grid
 
 ## ⏰ ÉTAT D'AVANCEMENT
 
-- Quelqueq modifs à faire 🙃
+Quelques modifs à effectuer 🥸
+
+## 👀 APERÇU DU PROJET
+
+![Screen shot du projet](img/1.jpg)
